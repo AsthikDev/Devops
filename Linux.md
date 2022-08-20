@@ -36,7 +36,7 @@ drwxr-xr-x 2 asthik asthik 4096 Aug 20 01:29 Videos
 In the example above,
 * In first command ***`echo $USER`***, echo is command & $USER is argument.
 * In second command ***`ls -l`***, ls is command & -l is called flag.
-### 2.1 **Command types**  
+#### 2.1 **Command types**  
 
 There are two types of commands,  
 * Internal / Builtin commands
