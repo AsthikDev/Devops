@@ -14,10 +14,10 @@ The homedirectory is where the user data for each specific user is created under
 
 <br>
 
-<center>
+<p align="center">
+<img src=images\linux\Fig_1.1.jpg>
+</p>
 
-![Fig 1.1 Home directory](images\linux\Fig_1.1.jpg)
-</center>
 
 1. Touch command
 
